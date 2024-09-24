@@ -1,0 +1,1 @@
+Finally I can start to use DOM. I made a basic counter.
